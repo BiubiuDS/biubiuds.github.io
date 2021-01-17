@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Biubiu's Data Science Blog]]></title>
+  <link href="http://biubiuds.github.io/atom.xml" rel="self"/>
+  <link href="http://biubiuds.github.io/"/>
+  <updated>2021-01-17T23:25:32+08:00</updated>
+  <id>http://biubiuds.github.io/</id>
+  <author>
+    <name><![CDATA[BiubiuDS]]></name>
+    <email><![CDATA[ibillxia@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[我回来了]]></title>
+    <link href="http://biubiuds.github.io/blog/2021/01/17/come-back/"/>
+    <updated>2021-01-17T13:30:00+08:00</updated>
+    <id>http://biubiuds.github.io/blog/2021/01/17/come-back</id>
+    <content type="html"><![CDATA[<center><img src="http://biubiuds.github.io/images/2021/IMAGE20210117_shiguangji.jpeg"></center>
+
+
+<blockquote><p>素描那年天气 蝉鸣的夏季 我想遇见你<br/>
+那童年的希望是一台时光机<br/>
+我可以一路开心到底 都不换气<br/>
+—— 周杰伦《时光机》歌词</p></blockquote>
+
+<!--more-->
+
+
+<p>时光匆匆。</p>
+
+<p>15年毕业工作后，博客就一直停更，转眼间五六年过去了，其间发生了太多太多事情，无论是在工作上还是生活上，唯一不变的——是变化。</p>
+
+<p>回过头来看工作的这几年，有很多收获，也有很多失去。过去大多忙于琐事，而缺少总结和思考，因此遇到不少挫折，个人成长如逆水行舟，不进反退。</p>
+
+<p>工作再忙，生活再琐碎，除了脚踏实地，更需要仰望星空。</p>
+
+<p>所以，我回来了。</p>
+
+<p>原来的 <a href="http://ibillxia.github.io/">博客</a> 好久未更新，原来的组件各种版本问题，为避免历史包袱，就不再继续维护，启用当前这个新的域名，轻装上阵，从新出发。</p>
+]]></content>
+  </entry>
+  
+</feed>
